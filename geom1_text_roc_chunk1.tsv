@@ -1,0 +1,5 @@
+x	y	label	group	anchor
+0	0.88	Black text shows number	-1	start
+0	0.86	of label error differences	-1	start
+0.1	0.78	Label error differences:	-1	end
+0.1	0.76	(dot shows correct model)	-1	end

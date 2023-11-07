@@ -1,0 +1,24 @@
+x	y	key	label	showSelected1	group
+0	1	SelectedRate	Selected TPR=0.400	TPR=0.400	10
+0	1	SelectedRate	Selected TPR=0.450	TPR=0.450	11
+0	1	SelectedRate	Selected TPR=0.500	TPR=0.500	12
+0	1	SelectedRate	Selected TPR=0.550	TPR=0.550	13
+0	1	SelectedRate	Selected TPR=0.579	TPR=0.579	14
+0	1	SelectedRate	Selected TPR=0.600	TPR=0.600	15
+0	1	SelectedRate	Selected TPR=0.650	TPR=0.650	16
+0	1	SelectedRate	Selected TPR=0.700	TPR=0.700	17
+0	1	SelectedRate	Selected TPR=0.750	TPR=0.750	18
+0	1	SelectedRate	Selected TPR=0.800	TPR=0.800	19
+0	1	SelectedRate	Selected TPR=0.829	TPR=0.829	20
+0	1	SelectedRate	Selected TPR=0.850	TPR=0.850	21
+0	1	SelectedRate	Selected TPR=0.900	TPR=0.900	22
+0	1	SelectedRate	Selected TPR=0.950	TPR=0.950	23
+0	1	SelectedRate	Selected FPR=0.012	FPR=0.012	1
+0	1	SelectedRate	Selected FPR=0.015	FPR=0.015	2
+0	1	SelectedRate	Selected FPR=0.020	FPR=0.020	3
+0	1	SelectedRate	Selected FPR=0.030	FPR=0.030	4
+0	1	SelectedRate	Selected FPR=0.040	FPR=0.040	5
+0	1	SelectedRate	Selected FPR=0.048	FPR=0.048	6
+0	1	SelectedRate	Selected FPR=0.061	FPR=0.061	7
+0	1	SelectedRate	Selected FPR=0.080	FPR=0.080	8
+0	1	SelectedRate	Selected FPR=0.100	FPR=0.100	9

@@ -1,0 +1,3 @@
+colour	x	y	label	showSelected1	group	anchor
+#00BFFF	0.0478031634446397	0.77	AIC default	AIC	1	start
+#FF0000	0.0115992970123023	0.62	BIC default	BIC	2	end
